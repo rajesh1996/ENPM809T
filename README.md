@@ -1,5 +1,5 @@
-![img_1620](https://user-images.githubusercontent.com/8612835/81495260-1fc82880-927d-11ea-9782-d1607b95c3ff.jpeg)
+Autonomous Robot
+
+![IMG_1938](https://user-images.githubusercontent.com/8612835/82130402-0b15f400-9799-11ea-916f-ae2d49552696.jpg)
 
 
-
-This repo consists of solutions to the assignments in the ENPM809T Course : Autonomous Robotics, taught at The University of Maryland, College Park
